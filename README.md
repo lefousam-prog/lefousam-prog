@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-Actualmente soy estudiante de quinto año de la carrera Ingeniería en Ciencias de la Computación en la Universidad Don Bosco.
+Actualmente soy estudiante egresado de la carrera Ingeniería en Ciencias de la Computación en la Universidad Don Bosco.
 
 - 🔭 Mis conocientos actuales van enfocados al área de programación web en el apartado tanto de Frontend como Backend.
 - 🌱 Las tecnologías que he utilizado han sido: C, C#, Java, PHP, Javascript, Angular, HTML, Bootstrap, Material, Sql Server, Mysql, CSS, Codeigniter, Android Studio, Windows Server 2012.
